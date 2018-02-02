@@ -3,5 +3,5 @@
 
 ```
 0.884
-{"accuracy": "None"}
+{"accuracy": 0.884}
 ```
